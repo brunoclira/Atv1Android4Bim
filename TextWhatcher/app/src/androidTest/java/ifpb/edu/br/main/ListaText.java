@@ -1,4 +1,4 @@
-package ifpb.edu.br.textwhatcher;
+package ifpb.edu.br.main;
 
 import android.app.Activity;
 import android.text.Editable;
@@ -8,6 +8,7 @@ import android.util.Log;
 /**
  * Created by Bruno on 22/02/2016. Parte 1 da atv
  */
+
 public class ListaText extends Activity implements TextWatcher {
 
     //Adapter e lista
